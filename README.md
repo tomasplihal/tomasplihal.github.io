@@ -1,0 +1,1 @@
+This repo contains my personal website based on the [Minima](https://github.com/jekyll/minima) Jekyll theme.
